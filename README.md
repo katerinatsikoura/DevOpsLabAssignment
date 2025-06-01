@@ -2,4 +2,4 @@
 
 This is my DevOpsLabAssignment submission!!
 
-my Dockehub: https://hub.docker.com/repository/docker/katerinatsikoura/devops/
+my Dockerhub: https://hub.docker.com/repository/docker/katerinatsikoura/devops/
